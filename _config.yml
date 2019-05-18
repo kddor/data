@@ -4,9 +4,9 @@ email: liuyongtry@163.com
 description: > # this means to ignore newlines until "baseurl:"
   闫肃的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://dataniu.org # the base hostname & protocol for your site
+url: http://kddor.github.io/data/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
-author: Su Yan
+author: liu yong
 
 # Sidebar filter
 # Choose 'tag' or 'category' as filter in sidebar.
@@ -21,17 +21,14 @@ instagram: suyan404
 linkedin: suyan404
 
 # avatar and Favicon
-avatar: http://imgs.dataniu.org/site-avatar.png
-favicon: http://imgs.dataniu.org/site-favicon.ico
+avatar: http://imgs.kddor.github.io/data/site-avatar.png
+favicon: http://imgs.kddor.github.io/data/site-favicon.ico
 
 # disqus config
 disqus:
-  shortname: dataniu-zh
+  shortname: kddor.github.io/data/-zh
 
 # google analytics config
-ga:
-  id: UA-54767140-1
-  url: yansu.org
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
